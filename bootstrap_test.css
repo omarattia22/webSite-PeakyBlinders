@@ -1,0 +1,9 @@
+.container d-flex flex-row{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20%;
+}
+.container d-flex flex-row{
+    padding-left: 150px;
+}
